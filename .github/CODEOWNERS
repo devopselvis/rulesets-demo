@@ -1,5 +1,5 @@
 # Workflows are owned by Platform
-/.github/workflows/**   @demo-org/platform-team
+/.github/workflows/**   @devopselvis/platform-team
 
 # App code
-/src/**                 @demo-org/app-team
+/src/**                 @devopselvis/app-team
